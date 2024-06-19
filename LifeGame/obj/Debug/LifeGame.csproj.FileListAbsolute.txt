@@ -1,0 +1,10 @@
+Z:\LifeGame\LifeGame\bin\Debug\LifeGame.exe.config
+Z:\LifeGame\LifeGame\bin\Debug\LifeGame.exe
+Z:\LifeGame\LifeGame\bin\Debug\LifeGame.pdb
+Z:\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.AssemblyReference.cache
+Z:\LifeGame\LifeGame\obj\Debug\GameOfLife.Form1.resources
+Z:\LifeGame\LifeGame\obj\Debug\LifeGame.Properties.Resources.resources
+Z:\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.GenerateResource.cache
+Z:\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.CoreCompileInputs.cache
+Z:\LifeGame\LifeGame\obj\Debug\LifeGame.exe
+Z:\LifeGame\LifeGame\obj\Debug\LifeGame.pdb
